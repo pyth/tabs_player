@@ -1,0 +1,111 @@
+Based on "Speak Softly, Love" from "The Godfather" by David Davidson
+
+# c - chord
+# n - single note
+# b - break/pause
+
+# E4|F4  - F4s - G4  - G4s - A4 - A4s - B4  - C5  - C5s - D5 - D5s||E5 - F5  - F5s - G5  - G5s - A5 - A5s - B5  - C6  - C6s - D6 - D6s - E6
+# B3|C4  - C4s - D4  - D4s - E4 - F4  - F4s - G4  - G4s - A4 - A4s||B4 - C5  - C5s - D5  - D5s - E5 - F5  - F5s - G5  - G5s - A5 - A5s - B5
+# G3|G3s - A3  - A3s - B3  - C4 - C4s - D4  - D4s - E4  - F4 - F4s||G4 - G4s - A4  - A4s - B4  - C5 - C5s - D5  - D5s - E5  - F5 - F5s - G5
+# D3|D3s - E3  - F3  - F3s - G3 - G3s - A3  - A3s - B3  - C4 - C4s||D4 - D4s - E4  - F4  - F4s - G4 - G4s - A4  - A4s - B4  - C5 - C5s - D5
+# A2|A2s - B2  - C3  - C3s - D3 - D3s - E3  - F3  - F3s - G3 - G3s||A3 - A3s - B3  - C4  - C4s - D4 - D4s - E4  - F4  - F4s - G4 - G4s - A4
+# E2|F2  - F2s - G2  - G2s - A2 - A2s - B2  - C3  - C3s - D3 - D3s||E3 - F3  - F3s - G3  - G3s - A3 - A3s - B3  - C4  - C4s - D4 - D4s - E4
+
+# A   = E4, C4s, A3, E3, A2
+# Am  = E4, C4, A3, E3, A2
+# A_7 = E4, C4s, G3, E3, A2
+#
+# B   = F4s, D4s, B3, F3s, B2
+# Bm  = F4s, D4, B3, F3s, B2
+# B_7 = F4s, B3, A3, D3s, B2
+#
+# C   = E4, C4, G3, E3, C3, G2
+# Cm  = F4, C4s, A3s, F3, A2s
+# C_7 = E4, C4, A3s, E3, C3
+#
+# D   = F4s, D4, A3, D3
+# Dm  = F4, D4, A3, D3
+# D_7 = F4s, C4, A3, D3
+#
+# E   = E4, B3, G3s, E3, B2, E2
+# Em  = E4, B3, G3, E3, B2, E2
+# E_7 = E4, D4, G3s, E3, B2, E2
+#
+# F   = F4, C3, A3, F3, C3, F2
+# Fm  = F4, C3, G3s, F3, C3, F2
+# F_7 = F4, C4, A3, D3s, C3, F2
+#
+# G   = G4, B3, G3, D3, B2, G2
+# Gm  = F4, C4, G3s, F3, C3, F2
+# G_7 = F4, B3, G3, D3, B2, G2
+
+n G4s 0.4
+n C5s 0.4
+n E5 0.4
+n D5s 0.4
+n C5s 0.5
+n E5 0.4
+n C5s 0.4
+n D5s 0.4
+n C5s 0.5
+n A4 0.4
+n B4 0.4
+n G4s 0.6
+b 0.4
+n G4s 0.4
+n C5s 0.4
+n E5 0.4
+n D5s 0.4
+n C5s 0.5
+n E5 0.4
+n C5s 0.4
+n D5s 0.4
+n C5s 0.5
+n G4s 0.4
+n G4 0.4
+n F4s 0.6
+b 0.4
+n F4s 0.4
+n G4s 0.4
+n C5 0.4
+n D5s 0.6
+b 0.4
+n F4s 0.4
+n G4s 0.4
+n C5 0.4
+n C5s 0.6
+b 0.4
+n C4s 0.4
+n E4 0.4
+n B4 0.4
+n A4 0.4
+n G4s 0.4
+n B4 0.4
+n A4 0.4
+n A4 0.4
+n G4s 0.4
+n G4s 0.4
+n C5 0.4
+n C5s 0.6
+b 0.4
+n C5s 0.3
+n C5s 0.3
+n C5s 0.3
+n C5 0.4
+n B4 0.5
+b 0.4
+n D5s 0.3
+n D5s 0.5
+n C5s 0.4
+n A4 0.4
+n G4s 0.5
+b 0.4
+n G4s 0.4
+n B4 0.4
+n G4s 0.4
+n F4s 0.5
+b 0.4
+n F4s 0.5
+n A4 0.5
+n C5 0.5
+n C5s 0.7
