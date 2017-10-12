@@ -22,6 +22,7 @@ A chord is defined as a *vector* of floats or predifined notes:
 ```
 std::vector<float> my_chord = { E4, B3, G3s, E3, B2, E2 }; //E major chord
 ```
+You will also have to add your note/chord to the *[note,chord]_map* in the *notes.h* file.
 
 ## Dependencies
 
